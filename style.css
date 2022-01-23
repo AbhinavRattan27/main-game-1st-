@@ -1,0 +1,16 @@
+body{
+    background-color: aliceblue;
+}
+
+h1{
+    font-size: 55px;
+    text-align: center;
+}
+
+.paddingimg{
+    padding: 50px;
+}
+
+.imgdiv{
+    text-align: center;
+}
